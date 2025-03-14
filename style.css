@@ -40,7 +40,7 @@ body {
     padding: 40px;
     background-color: rgba(255, 255, 255, 0.7); 
     border-radius: 15px; 
-    border: 5px solid rgb(255, 174, 0); 
+    border: 5px solid rgb(3, 255, 37); 
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); 
     width: 300px; 
     margin-left: auto;
@@ -60,22 +60,22 @@ body {
     text-transform: uppercase;
     transition: 0.5s;
     transition-property: box-shadow;
-    background-color: rgb(255, 174, 0);
-    box-shadow: 0 0 25px rgb(255, 174, 0);
+    background-color: rgb(0, 255, 208);
+    box-shadow: 0 0 25px rgb(0, 255, 208);
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
     
 }
 
 .start-btn:hover {
     transform: scale(1.1);
-    background-color: rgb(255, 143, 0);
-    box-shadow: 0 0 35px rgb(255, 143, 0);
+    background-color: rgb(0, 255, 208);
+    box-shadow: 0 0 35px rgb(0, 255, 208);
 }
 
 .math-quiz {
     font-size: 48px;
     font-weight: bold;
-    color: #000;
+    color: #19ff08;
     margin-bottom: 30px;
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
 }
@@ -151,13 +151,13 @@ body {
     transition: 0.5s;
     transition-property: box-shadow;
     margin-top: 120px;
-    background: rgb(255, 174, 0);
-    box-shadow: 0 0 25px rgb(255, 174, 0);
+    background: rgb(0, 255, 208);
+    box-shadow: 0 0 25px rgb(0, 0, 0);
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.6);
 }
 
 .restart-btn:hover {
     transform: scale(1.1);
-    background-color: rgb(255, 143, 0);
-    box-shadow: 0 0 35px rgb(255, 143, 0);
+    background-color: rgb(0, 255, 208);
+    box-shadow: 0 0 35px rgb(0, 255, 208);
 }
